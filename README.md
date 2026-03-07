@@ -1,0 +1,2 @@
+# Menejer-izzatbek
+izzatbek-(dostonbek)
