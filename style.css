@@ -19,18 +19,30 @@ background: url("./Paris.png" ) no-repeat center /cover;
 .navbar
 {
     width: 400px;
-    height: 400px;
+    height: 500px;
     border: 2px solid rgba(0, 0, 0, 0);
-padding: 50px;
+margin-top: 70px;
 }
-
-h1
+.c5
 {
     font-size: 35px;
     font-family: sans-serif;
     color: white;
 }
+.v1
+{
+    margin-left: 70px;
+    gap: 15px;
+    display: flex;
+}
 
+.c6
+{
+    
+    font-size: 35px;
+    font-family: sans-serif;
+    color: rgb(51, 8, 247);
+}
 p
 {
     font-size: 20px;
@@ -39,17 +51,18 @@ p
 
 button
 {
-    width: 150px;
+    width: 250px;
     height: 50px;
     background-color: rgb(67, 67, 255);
     color: white;
-    border-radius: 25px;
+    border-radius: 10px;
 }
 .footer
 {
 width: 100%;
-height: 400px;
-justify-content: space-evenly;
+height: 300px;
+display: flex;
+gap: 100px;
 }
 .footer,.kun
 {
@@ -63,15 +76,17 @@ justify-content: space-evenly;
 h1,h2
 {
     margin-top: 15px;
-    font-size: 25px;
+    font-size: 20px;
 font-family:Arial, Helvetica, sans-serif;
-margin-right: 1150px;
 }
 .footer,.k
 {
     font-size: 50px;
     color: rgb(236, 202, 7);
-    margin-left: 150px;
-    margin-top: 50px; 
 }
+.c1,.c2,.c3,.c4
+{
+width: 150px;
+height: auto
 
+}
