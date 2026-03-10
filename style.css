@@ -21,7 +21,16 @@ background: url("./Paris.png" ) no-repeat center /cover;
     width: 400px;
     height: 500px;
     border: 2px solid rgba(0, 0, 0, 0);
+<<<<<<< HEAD
 margin-top: 70px;
+=======
+    padding: 50px;
+    flex-wrap: wrap;
+    border: 5px solid black;
+    justify-content: center;
+    align-items: center;
+
+>>>>>>> 8238b066a799428fcf2632554a4c659fa37ed694
 }
 .c5
 {
